@@ -1,0 +1,39 @@
+{
+    "name": "Antonio Vitor guimarães Viriato Santos",
+    "description": "Nascido em 09-09-2000, se formou na universidade unime em 2023 no curso de sistemas de informação, atualmente trabalha como suporte tecnico. Focou seus estudos em HTML, CSS e Javascript, por isso, procurou realizar uma pós-graduação focada em front-end.",
+    "academic": [
+        {
+            "institution": "Unime",
+            "course": "Sistemas de informação",
+            "year": 2023
+    
+        },
+        {
+            "institution": "Unylera",
+            "course": "Desenvolvimento front-end",
+            "year": 2024
+    
+        }
+    ],
+    "professional":
+    [
+        {
+            "company": "JGMCONSULTOR",
+            "occupation": "Suporte tecnico",
+            "period": "2022 - Atual",
+            "jobs": "Suporte tecnico a clientes, auxilio em manutenção de banco de dados"
+        }
+    ],
+    "contacts":[
+        {
+            "type": "Phone",
+            "contact": "+1 484 954-0722",
+            "text": "Celular"
+        },
+        {
+            "type": "mail",
+            "contact": "xalvitor@gmail.com",
+            "text": "E-mail"
+        }
+    ]
+}
